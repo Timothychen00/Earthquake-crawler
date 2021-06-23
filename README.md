@@ -1,1 +1,2 @@
-# Timothychen's sideproject
+# 
+# Auther: Timothychen(陳澤榮)
