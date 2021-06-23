@@ -1,3 +1,4 @@
+# Only For Mac   
 # Summary
 This program will connect to https://www.cwb.gov.tw/V8/C/E/index.html and cause the web is edited by AJAX.  
 So I try to parse the web and find the real data.Then use hashlib(md5) to check if the web is updated.  
