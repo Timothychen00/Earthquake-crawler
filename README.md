@@ -4,12 +4,12 @@ So I try to parse the web and find the real data.Then use hashlib(md5) to check 
 At the end,send Mac Notification about the detail of the latest Earthquake
 # Config(python lib.......)
 bs4            |parser
-subprocess     |mac system module
+subprocess     |mac system module 
 os             |path operating
 hashlib        |md5
 sys            |current file location
 time           |sleep
 requests       |request
 # About Auther
-Auther: Timothychen(陳澤榮)
+Auther: Timothychen(陳澤榮) \n
 Email:  tiomthychenpc@gmail.com
