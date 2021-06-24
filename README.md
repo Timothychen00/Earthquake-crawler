@@ -1,6 +1,6 @@
 # Only For Mac   
 # Summary
-This program will connect to https://www.cwb.gov.tw/V8/C/E/index.html and cause The web which is develop with a technique called 'AJAX'.  
+This program will connect to https://www.cwb.gov.tw/V8/C/E/index.html and cause The web which was developed with a technique called 'AJAX'.  
 So I try to parse the web and find the real data resource. Then use hashlib(md5, kind of 'Hexadecimal encryption') to check if the web is updated.
 In the end, send Mac Notification about the detail of the latest Earthquake.  
 # Config(python lib.......)
