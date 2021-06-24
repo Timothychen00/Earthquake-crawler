@@ -15,4 +15,4 @@ requests|request
 Author: Timothychen(陳澤榮)  
 Email:  tiomthychenpc@gmail.com  
 --------------------------Done on 20210624----------------------------
-# If there's any mistake, please let me know
+# If there's any mistakes, please let me know
